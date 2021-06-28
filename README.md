@@ -1,2 +1,2 @@
 # ml-from-scratch
-algorithms from scratch
+ML algorithms from scratch
